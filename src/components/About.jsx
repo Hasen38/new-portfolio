@@ -21,14 +21,10 @@ function AboutMe() {
                 transition={{ duration: 0.6 }}
                 className="text-lg leading-relaxed text-gray-700"
               >
-                As a passionate full-stack developer, I craft elegant, scalable web solutions
+               As a full-stack developer, I craft elegant, scalable web solutions
                 that bridge creativity and functionality. My expertise spans from designing
                 intuitive React interfaces styled with Tailwind CSS to architecting robust
-                Laravel back-ends powered by MySQL. I thrive on optimizing performance and
-                user experiences, leveraging cutting-edge tools like Docker and AWS for
-                seamless deployments. With a keen eye for detail and a drive for innovation,
-                I'm committed to pushing the boundaries of what's possible in web development,
-                always eager to embrace new challenges and technologies.
+                Laravel back-ends powered by MySQL.
               </motion.p>
             </div>
             <div className="flex justify-center">
